@@ -44,6 +44,7 @@ h2{
 }
 .orion{
   padding-right: 200px;
+  width: 50%;
 }
 hr{
   border: 5px dotted #006A71;
@@ -61,6 +62,11 @@ hr{
   font-size: 3em;
   width: 50%;
 }
+.puzz{
+    padding-right: 200px;
+  width: 50%;
+}
+  
 
 .touch{
     padding-right: 75px;
