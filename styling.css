@@ -65,7 +65,7 @@ hr{
 }
 .puzz{
   padding-right: 200px;
-  font-size:1.5em;
+  font-size: 1.5em;
   width: 50%;
 }
   
@@ -76,6 +76,7 @@ hr{
 }
 .connect{
   font-size: 1.5em;
+  width: 50%;
 }
 .contact{
   display: inline-block;
