@@ -73,8 +73,8 @@ hr{
   border-radius: 25px;
   border: 1px solid #206A5D;
   text-align: center;
-  font-size: 20px;
-  padding: 10px;
+  font-size: 30px;
+  padding: 15px;
 }
 .contact:hover{
   background-image: linear-gradient(to top,#184D47, #CFF6CF);
