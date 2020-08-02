@@ -44,6 +44,7 @@ h2{
 }
 .orion{
   padding-right: 200px;
+  font-size: 1.5em;
   width: 50%;
 }
 hr{
@@ -63,13 +64,15 @@ hr{
   width: 50%;
 }
 .puzz{
-    padding-right: 200px;
+  padding-right: 200px;
+  font-size:1.5em;
   width: 50%;
 }
   
 
 .touch{
-    padding-right: 75px;
+  padding-right: 75px;
+  width: 50%;
 }
 .connect{
   font-size: 1.5em;
